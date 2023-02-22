@@ -52,6 +52,8 @@ notecardTwo.querySelector('.note-title')
 // Method One:
 notecardTwo.querySelector('#notecard-three .icon-delete')
 
+99% sure that is supposed to be notecardThree
+
 // Method Two:
 const notecardThree = document.querySelector('#notecard-three');
 notecardThree.querySelector('.icon-delete')
